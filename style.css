@@ -1,0 +1,21 @@
+#logo{
+    position: absolute;
+    width: 118.07px;
+    height: 33px;
+    font-family: Rubik;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24.8571px;
+    line-height: 29px;
+    color: #56548C;
+}
+#sing-in{
+    background-color: #21B573;
+    border-radius: 33px;
+}
+#sing-in a{
+    color: white;
+}
+.nav-item{
+    padding: 10px;
+}
