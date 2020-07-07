@@ -45,7 +45,42 @@
 }
 .btn{
     background-color: #21B573;
+    height: 33px;
     border-radius: 33px;
-    padding: 13px;
+    color: white;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+.cat-img{
+    width: 66px;
+    height: 85px;
+}
+.categories{
+    text-align: center;
+}
+#cat-box2{
+    box-shadow: 5px 5px 5px lightgray;
+}
+.courses h3{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 25px lightgray;
+}
+.small-card{
+    margin-bottom: 10px;
+}
+.icon-img{
+    height: 20px;
+}
+
+.testi h3{
+    text-align: center;
+    margin-bottom: 100px;
+}
+.testi{
+    text-align: center;
 }
 
