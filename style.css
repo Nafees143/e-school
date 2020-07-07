@@ -1,3 +1,9 @@
+.container{
+    margin-bottom: 77px;
+}
+.nav-banner{
+    background-color: #F0FFF0;
+}
 #logo{
     position: absolute;
     width: 118.07px;
@@ -19,3 +25,27 @@
 .nav-item{
     padding: 10px;
 }
+.banner-texts{
+    padding: 15px;
+}
+.banner-texts small{
+    color: tomato;
+}
+.banner-texts p{
+    margin: 33px 0px;
+}
+#bnr-header{
+    margin: 15px 0px;
+}
+.banner-texts span{
+    color: #21B573;
+}
+#bnr-img{
+    padding-right: 87px;
+}
+.btn{
+    background-color: #21B573;
+    border-radius: 33px;
+    padding: 13px;
+}
+
