@@ -1,5 +1,5 @@
 .container{
-    margin-bottom: 77px;
+    margin-bottom: 50px;
 }
 .nav-banner{
     background-color: #F0FFF0;
@@ -41,7 +41,7 @@
     color: #21B573;
 }
 #bnr-img{
-    padding-right: 87px;
+    padding: 0px 50px;
 }
 .btn{
     background-color: #21B573;
@@ -51,12 +51,18 @@
     padding-bottom: 30px;
     margin-bottom: 30px;
 }
+.categories{
+    padding: 75px;
+}
+.cat1, .cat2, .cat3, .cat4{
+    width: 230px;
+    height: 200px;
+    text-align: center;
+    padding: 35px;
+}
 .cat-img{
     width: 66px;
     height: 85px;
-}
-.categories{
-    text-align: center;
 }
 #cat-box2{
     box-shadow: 5px 5px 5px lightgray;
@@ -81,6 +87,20 @@
     margin-bottom: 100px;
 }
 .testi{
+    width: 550px;
     text-align: center;
 }
-
+.testi-img{
+    height: 100px;
+    margin-right: 15px;
+}
+.testi-text{
+    height: 100px;
+    text-align: justify;
+}
+.footer{
+    border-top: 1px solid #ddd;
+}
+.last{
+    margin-bottom: 0px;
+}
